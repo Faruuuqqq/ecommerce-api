@@ -1,2 +1,5 @@
-# ecommerce-api
-using node js and mysql
+# ecommerce-api using node js and mysql
+
+```bash
+npm init -y
+```
